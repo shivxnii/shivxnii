@@ -1,9 +1,8 @@
 <div align="center">
-<img width="220" height="220" style="border-radius:50%;object-fit:cover;" alt="Shivani Sharma" src="https://github.com/user-attachments/assets/12a3aeb6-a72f-4ff5-a01d-ce445196a196" />
 
 # 👋 Hi, I'm Shivani Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=SDE+Intern+%40+RYM+Grenergy;SIH'25+Finalist+%7C+AIWH'25+Finalist;Java+%7C+DSA+%7C+Full+Stack+Developer;CSE+(AI%2FML)+'27+%40+KR+Mangalam+University;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=SDE+Intern+%40+RYM+Grenergy;SIH'25+Finalist+%7C+AIWH'25+Finalist;Java+%7C+DSA+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
 
 <br>
 
@@ -37,7 +36,7 @@
 class ShivaniSharma {
 
     String role =
-        "SDE Intern @ RYM Grenergy";
+        "Software Development Engineer Intern @ RYM Grenergy";
 
     String education =
         "B.Tech CSE (AI & ML) | KR Mangalam University";
@@ -45,20 +44,26 @@ class ShivaniSharma {
     String graduation = "2027";
 
     String interests[] = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
         "Full Stack Development",
-        "Java & DSA",
-        "Backend Engineering",
-        "AI & Machine Learning",
+        "Backend Development",
         "System Design"
     };
 
     String achievements[] = {
         "SIH'25 Finalist",
-        "AIWH'25 Finalist"
+        "AIWH'25 Finalist",
+        "Deep Data Hackathon - 3rd Rank"
     };
 
-    String previousExperience =
-        "Ex-SDE Intern @ WebMobril Technologies";
+    String currentlyLearning[] = {
+        "Java",
+        "DSA",
+        "Spring Boot",
+        "System Design"
+    };
 }
 ```
 
@@ -69,20 +74,36 @@ class ShivaniSharma {
 ### 💜 Software Development Engineer Intern
 **RYM Grenergy**
 
+- AI Based Mineral Classification Dashboard
+- Warehouse Automation System
+- Vehicle Entry/Exit Detection
+- ANPR + OCR
+- FastAPI + NodeJS + React
+
 ---
 
 ### 💙 Ex Software Development Intern
+
 **WebMobril Technologies**
+
+Worked on
+
+- Enterprise Search Engine
+- AQI Forecasting
+- Scientific Calculator
+- Web Development
 
 ---
 
 # 🏆 Achievements
 
-🥇 Smart India Hackathon (SIH) 2025 Finalist
+🥇 Smart India Hackathon 2025 Finalist
 
 🥇 AIWH 2025 Finalist
 
----
+🥉 Deep Data Hackathon - 3rd Position
+
+🏅 Mathematics Olympiad
 
 # 🛠 Tech Stack
 
@@ -91,145 +112,58 @@ class ShivaniSharma {
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,cpp,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c" />
 </p>
 
 ## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind" />
 </p>
 
 ## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 ## ☁️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Currently Learning
 
-<table>
-<tr>
-<td width="70%">
+```text
+✔ Java (Advanced)
 
-## 🧭 projexa.ai
+✔ Data Structures & Algorithms
 
-**Tech Stack:** Python
+✔ Spring Boot
 
-An AI-focused project built to explore practical applications of machine learning / automation.
+✔ System Design
 
-</td>
-<td align="center">🧠 AI Project</td>
-</tr>
-</table>
+✔ Backend Development
 
----
-
-<table>
-<tr>
-<td width="70%">
-
-## ⛏ Mine Sarthi
-
-### Smart India Hackathon Project
-
-**Tech Stack:** TypeScript, Full-Stack, AI
-
-A full-stack AI-powered web application built for optimizing energy usage in iron ore mining — "The Charioteer of Sustainable Mining."
-
-**Achievement:** 🏆 Smart India Hackathon 2025 Finalist
-
-</td>
-<td align="center">🏆 SIH'25</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="70%">
-
-## 🏫 School Management System
-
-**Tech Stack:** Full-Stack Web Development
-
-A web application to manage school operations — students, records, and administration.
-
-</td>
-<td align="center">🏫 Web App</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="70%">
-
-## 🌫️ AQI Predictor
-
-**Tech Stack:** Jupyter Notebook, Python, Machine Learning
-
-A machine learning model to forecast Air Quality Index (AQI) trends.
-
-</td>
-<td align="center">📊 ML Project</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="70%">
-
-## 🖥️ Operating System Lab Sheet
-
-**Tech Stack:** Python
-
-College coursework covering core Operating Systems concepts.
-
-</td>
-<td align="center">🎓 College Project</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxnii&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+✔ AI & Machine Learning
+```
 
 ---
 
@@ -253,10 +187,262 @@ College coursework covering core Operating Systems concepts.
 
 ---
 
+# 🎯 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- 📊 Data Structures & Algorithms
+- ☁️ Cloud Computing
+- 🚀 Software Engineering
+
+---
+
+# 💡 Fun Fact
+
+```cpp
+while(!success){
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+## 🪨 MineralVision
+
+### AI Powered Mineral Classification Dashboard
+
+**Tech Stack**
+
+TensorFlow • PyTorch • FastAPI • React • Node.js • MongoDB
+
+**Highlights**
+
+- 🔹 AI powered mineral classification system
+- 🔹 Dashboard for industrial clients
+- 🔹 Upload image & predict mineral type
+- 🔹 Prediction history
+- 🔹 Analytics Dashboard
+- 🔹 REST APIs using FastAPI
+
+**Skills**
+```
+Deep Learning
+Computer Vision
+Backend Development
+Model Deployment
+```
+
+</td>
+
+<td align="center">
+
+🧠 AI Dashboard
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+## 🚚 Smart Warehouse Automation
+
+### Vehicle Entry / Exit Detection System
+
+**Tech Stack**
+
+YOLO • OpenCV • OCR • ANPR • Python
+
+**Features**
+
+- 🚛 Truck Detection
+- 🔢 Number Plate Recognition
+- 📸 OCR based text extraction
+- 📋 Automatic Entry Logs
+- 📊 Vehicle Monitoring Dashboard
+
+**Concepts Used**
+
+```
+YOLO
+OpenCV
+OCR
+Computer Vision
+Object Detection
+```
+
+</td>
+
+<td align="center">
+
+🚚 Smart Warehouse
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+## ⛏ Mine Sarthi
+
+### Smart India Hackathon Project
+
+**Tech Stack**
+
+Python • IoT • LSTM • OpenCV • FastAPI
+
+**Highlights**
+
+- ⚡ Digital Twin for Mining
+- ⚡ Energy Optimization
+- ⚡ Safety Monitoring
+- ⚡ AI Based Prediction
+- ⚡ Real Time Dashboard
+
+**Achievement**
+
+🏆 Smart India Hackathon 2025 Finalist
+
+</td>
+
+<td align="center">
+
+🏆 SIH'25
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+## 🤖 AI Sakhi
+
+### Voice Enabled AI Assistant
+
+**Tech Stack**
+
+Python • NLP • Speech Recognition • LLM
+
+**Features**
+
+- 🎙 Hindi + English Voice Support
+- 📄 KYC Form Filling
+- 🤖 AI Powered Assistant
+- 💬 Natural Conversation
+- 🌍 Multilingual Support
+
+</td>
+
+<td align="center">
+
+🤖 AI Assistant
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏅 Certifications & Achievements
+
+🥇 Smart India Hackathon 2025 Finalist
+
+🥇 AIWH 2025 Finalist
+
+🥉 Deep Data Hackathon – 3rd Rank
+
+🏅 Mathematics Olympiad
+
+💼 Software Development Engineer Intern @ RYM Grenergy
+
+💼 Ex Software Development Intern @ WebMobril Technologies
+
+---
+
+# 🌱 Currently Working On
+
+✅ Spring Boot
+
+✅ Advanced DSA
+
+✅ AI based Warehouse Automation
+
+✅ Computer Vision
+
+✅ Backend Development
+
+✅ System Design
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxnii&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivxnii&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -264,7 +450,9 @@ College coursework covering core Operating Systems concepts.
 # 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=shivxnii&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+
 </p>
 
 ---

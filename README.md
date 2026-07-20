@@ -1,4 +1,5 @@
 <div align="center">
+<img width="540" height="697" alt="WhatsApp Image 2026-06-24 at 7 46 51 PM" src="https://github.com/user-attachments/assets/12a3aeb6-a72f-4ff5-a01d-ce445196a196" />
 
 # 👋 Hi, I'm Shivani Sharma
 

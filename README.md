@@ -1,8 +1,11 @@
 <div align="center">
+<img width="540" height="697" alt="WhatsApp Image 2026-06-24 at 7 46 51 PM" src="https://github.com/user-attachments/assets/12a3aeb6-a72f-4ff5-a01d-ce445196a196" />
 
-<img width="1106" height="708" alt="Shivani Sharma - System Info" src="https://github.com/user-attachments/assets/8c9be754-f49e-4dad-b5b3-8996a3972ded" />
+# 👋 Hi, I'm Shivani Sharma
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=SDE+Intern+%40+RYM+Grenergy;SIH'25+Finalist+%7C+AIWH'25+Finalist;Java+%7C+DSA+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
+
+<br>
 
 <a href="https://github.com/shivxnii">
 <img src="https://img.shields.io/badge/GitHub-shivxnii-181717?style=for-the-badge&logo=github"/>
@@ -25,8 +28,6 @@
 <img src="https://komarev.com/ghpvc/?username=shivxnii&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
-
----
 
 ---
 

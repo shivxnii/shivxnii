@@ -1,238 +1,236 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Shivani Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090E1C,45:142B52,100:5636A8&text=SHIVANI%20SHARMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%7C%20Software%20Development%20%7C%20Building%20Intelligent%20Systems&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-### Software Development Engineer Intern | AI/ML Enthusiast | Full-Stack Developer
+<br/>
 
-Building intelligent applications, practical AI solutions and scalable software.
+<a href="https://www.linkedin.com/in/shivani-sharma-1a7737289/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/shivxnii">
+<img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Shivani_2511/">
+<img src="https://img.shields.io/badge/LEETCODE-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivani-sharma-1a7737289/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shivxnii)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivani_2511/)
+<br/><br/>
+
+**Turning ideas into intelligent solutions through code, creativity and engineering.**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `01` — The Developer Behind the Code
 
-```java
-class ShivaniSharma {
+<img align="right" width="290" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-    String role =
-        "Software Development Engineer Intern @ RYM Grenergy";
+Hey there! I'm **Shivani Sharma**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at K.R. Mangalam University.
 
-    String education =
-        "B.Tech CSE (AI & ML) | K.R. Mangalam University";
+Currently working as a Software Development Intern, I enjoy building practical applications that combine intelligent algorithms, backend engineering and modern software development.
 
-    String graduation = "2027";
+I am particularly interested in:
 
-    String interests[] = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Full Stack Development",
-        "Backend Engineering",
-        "System Design"
-    };
+- Artificial Intelligence & Machine Learning
+- Computer Vision and Deep Learning
+- Backend & Full-Stack Development
+- Intelligent Automation
+- Data Structures & Algorithms
+- Scalable Software Systems
 
-    String achievements[] = {
-        "SIH 2025 Finalist",
-        "AIWH 2025 Finalist",
-        "Deep Data Hackathon - 3rd Rank"
-    };
-
-    String currentlyLearning[] = {
-        "Java",
-        "Data Structures & Algorithms",
-        "Spring Boot",
-        "System Design"
-    };
-}
-```
+<br clear="right"/>
 
 ---
 
-## 💼 Experience
+## `02` — Engineering Journey
 
-### 💜 Software Development Engineer Intern — RYM Grenergy
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Working on AI-powered software and automation solutions.
-- Mineral classification and intelligent dashboard development.
-- Warehouse automation and vehicle monitoring systems.
-- Computer vision, ANPR and OCR integrations.
-- Working with FastAPI, Node.js and modern web technologies.
+### 🎓 Education
 
-### 💙 Former Software Development Intern — WebMobril Technologies
+**B.Tech — Computer Science & Engineering**
 
-- Developed an internal enterprise search engine.
-- Worked on AQI forecasting.
-- Built a scientific calculator using Python and Tkinter.
-- Explored backend development and application development.
+Artificial Intelligence & Machine Learning
 
----
+K.R. Mangalam University
 
-## 🏆 Achievements
+2023 – 2027
 
-- 🥇 Smart India Hackathon 2025 — Grand Finale Finalist
-- 🥇 AIWH 2025 — Top 25
-- 🥉 Deep Data Hackathon — 3rd Position
-- 🏅 Mathematics Olympiad — Class 10
+</td>
+<td width="50%" valign="top">
 
----
+### 💼 Experience
 
-## 🛠️ Tech Stack
+**Software Development Intern**
 
-### 💻 Programming Languages
+RYM GRENERGY
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+AI-powered applications, computer vision, automation and intelligent monitoring systems.
 
-### 🌐 Frontend Development
+**Former Software Development Intern**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+WebMobril Technologies
 
-### ⚙️ Backend Development
+Enterprise search, AQI forecasting and Python application development.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+## `03` — Recognition & Achievements
 
-- Java and Advanced DSA
-- Spring Boot
-- System Design
-- Backend Engineering
-- Advanced AI/ML applications
+<div align="center">
+
+<img src="https://img.shields.io/badge/SIH_2025-GRAND_FINALE_FINALIST-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/AIWH-TOP_25-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEP_DATA_HACKATHON-3RD_PLACE-9333EA?style=for-the-badge"/>
+
+</div>
+
+| Achievement | Recognition |
+|---|---|
+| Smart India Hackathon 2025 | Grand Finale Finalist |
+| AIWH Hackathon | Top 25 |
+| Deep Data Hackathon | 3rd Position |
+| Mathematics Olympiad | School-level achievement |
 
 ---
 
-## 🚀 Featured Projects
+## `04` — Technology Arsenal
 
-### 🪨 MineralVision
-**AI-Powered Mineral Classification Dashboard**
+<div align="center">
 
-- Deep learning-based mineral classification.
-- Image upload and mineral prediction.
-- Prediction history and analytics dashboard.
-- Model integration with FastAPI and Node.js.
+### Programming Languages
 
-**Tech:** TensorFlow · PyTorch · FastAPI · React · Node.js · MongoDB
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 
-### 🚚 Smart Warehouse Automation
-**Vehicle Entry / Exit Detection System**
+### AI / Machine Learning
 
-- Truck detection and tracking.
-- Automatic Number Plate Recognition.
-- OCR-based text extraction.
-- Automated vehicle entry logs.
-- Real-time monitoring dashboard.
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" />
 
-**Tech:** Python · YOLO · OpenCV · OCR · ANPR
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres&theme=dark" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+
+</div>
+
+---
+
+## `05` — Selected Engineering Projects
 
 ### ⛏️ Mine Sarthi
-**Smart India Hackathon 2025 Finalist**
+**AI-powered Mining Intelligence & Digital Twin**
 
-- Digital twin for mining operations.
-- Energy optimization and monitoring.
+*Smart India Hackathon 2025 — Grand Finale Project*
+
+- Digital twin-based mining operations monitoring.
 - LSTM-based predictive analytics.
-- IoT-based equipment monitoring.
-- AI-powered safety monitoring.
+- IoT sensor integration for equipment monitoring.
+- Computer vision-based safety monitoring.
 
-**Tech:** Python · IoT · LSTM · OpenCV · FastAPI
+`Python` `LSTM` `OpenCV` `ESP32` `MQTT` `FastAPI`
+
+---
+
+### 🪨 MineralVision
+**Intelligent Mineral Classification & Monitoring Platform**
+
+- Deep learning-based mineral image classification.
+- Model integration with a prediction service.
+- Interactive monitoring and analytics dashboard.
+- Prediction history and model management.
+
+`Python` `TensorFlow` `EfficientNetB3` `FastAPI` `Node.js`
+
+---
+
+### 🚛 Container Yard Monitor
+**Computer Vision-Based Container Tracking System**
+
+- Container detection and tracking.
+- Video-based monitoring and live simulation.
+- Container identification using OCR.
+- Interactive yard visualization and movement tracking.
+
+`Python` `OpenCV` `OCR` `Node.js` `JavaScript`
+
+---
 
 ### 🤖 AI Sakhi
 **Bilingual Voice-Enabled AI Assistant**
 
-- Hindi and English voice support.
+- Hindi and English voice interaction.
 - AI-assisted KYC form filling.
-- Speech recognition and natural language processing.
-- Conversational assistant experience.
+- Speech recognition and NLP-based interaction.
 
-**Tech:** Python · NLP · Speech Recognition · AI
+`Python` `NLP` `Speech Recognition` `AI`
 
 ---
 
-## 📊 GitHub Analytics
+## `06` — GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=38BDF8&text_color=DCE6F5" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=DCE6F5" width="49%" />
 
 </div>
 
 ---
 
-## 🧊 3D Contribution Calendar
+## `07` — Contributions in 3D
 
 <div align="center">
 
-### My GitHub Contributions — In 3D
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contribution Calendar" />
+### Every commit is a step forward.
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Shivani's 3D GitHub contribution calendar"/>
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## `08` — Currently Exploring
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shivani_2511-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivani_2511/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-shivxnii-181717?style=for-the-badge&logo=github)](https://github.com/shivxnii)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani_Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivani-sharma-1a7737289/)
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADVANCED_DSA-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-8B5CF6?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Working On
-
-- AI-powered warehouse automation
-- Computer vision and object detection
-- Backend development
-- Intelligent monitoring systems
-- Java and System Design
-
----
+## `09` — Let's Connect
 
 <div align="center">
 
-### 💜 Code. Learn. Build. Repeat.
+I'm always interested in collaborating on meaningful projects, exploring innovative ideas and connecting with fellow developers.
 
-*"Turning ideas into intelligent solutions, one commit at a time."*
+<a href="https://www.linkedin.com/in/shivani-sharma-1a7737289/">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-⭐ If you like my work, consider starring my repositories!
+<a href="https://github.com/shivxnii">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5636A8,50:142B52,100:090E1C&height=110&section=footer" width="100%"/>
+
+**BUILD • EXPLORE • INNOVATE • REPEAT**
 
 </div>

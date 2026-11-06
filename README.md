@@ -197,8 +197,7 @@ class ShivaniSharma {
 <div align="center">
 
 ### My GitHub Contributions — In 3D
-
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitHub Contribution Calendar" />
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contribution Calendar" />
 
 </div>
 

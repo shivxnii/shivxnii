@@ -1,81 +1,85 @@
 
+<!-- ====================================================== -->
+<!-- SHIVANI SHARMA | PREMIUM GITHUB PROFILE -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090E1C,45:142B52,100:5636A8&text=SHIVANI%20SHARMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%7C%20Software%20Development%20%7C%20Building%20Intelligent%20Systems&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:10264D,75:263C80,100:7047B8&height=230&section=header&text=SHIVANI%20SHARMA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descSize=17&descAlignY=60&animation=fadeIn" />
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Turning+Ideas+Into+Real+Products;AI+%7C+Machine+Learning+%7C+Software+Engineering;Code.+Create.+Innovate." alt="Typing SVG"/>
+</a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/shivani-sharma-1a7737289/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/shivxnii">
-<img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/Shivani_2511/">
-<img src="https://img.shields.io/badge/LEETCODE-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-**Turning ideas into intelligent solutions through code, creativity and engineering.**
+<img src="https://komarev.com/ghpvc/?username=shivxnii&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01` — The Developer Behind the Code
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
-<img align="right" width="290" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-Hey there! I'm **Shivani Sharma**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at K.R. Mangalam University.
+Hi! I'm **Shivani Sharma**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at K.R. Mangalam University.
 
-Currently working as a Software Development Intern, I enjoy building practical applications that combine intelligent algorithms, backend engineering and modern software development.
+Currently working as a Software Development Intern, I enjoy building intelligent applications, developing backend systems and solving real-world problems through technology.
 
-I am particularly interested in:
+**What drives me:**
 
 - Artificial Intelligence & Machine Learning
-- Computer Vision and Deep Learning
-- Backend & Full-Stack Development
+- Computer Vision & Deep Learning
+- Software and Backend Engineering
 - Intelligent Automation
 - Data Structures & Algorithms
-- Scalable Software Systems
+- Building real-world AI products
 
 <br clear="right"/>
 
 ---
 
-## `02` — Engineering Journey
+<h2 align="center">✦ EXPERIENCE ✦</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Education
+### Software Development Intern
 
-**B.Tech — Computer Science & Engineering**
+**RYM GRENERGY**
 
-Artificial Intelligence & Machine Learning
-
-K.R. Mangalam University
-
-2023 – 2027
+- AI-powered software development
+- Mineral classification systems
+- Computer vision applications
+- Intelligent monitoring dashboards
+- Automation and backend development
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Experience
+### Former Software Development Intern
 
-**Software Development Intern**
+**WebMobril Technologies**
 
-RYM GRENERGY
-
-AI-powered applications, computer vision, automation and intelligent monitoring systems.
-
-**Former Software Development Intern**
-
-WebMobril Technologies
-
-Enterprise search, AQI forecasting and Python application development.
+- Internal enterprise search engine
+- AQI forecasting application
+- Scientific calculator using Tkinter
+- Python application development
+- Software development fundamentals
 
 </td>
 </tr>
@@ -83,154 +87,193 @@ Enterprise search, AQI forecasting and Python application development.
 
 ---
 
-## `03` — Recognition & Achievements
+<h2 align="center">✦ ACHIEVEMENTS ✦</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SIH_2025-GRAND_FINALE_FINALIST-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIH_2025-GRAND_FINALE_FINALIST-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AIWH-TOP_25-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DEEP_DATA_HACKATHON-3RD_PLACE-9333EA?style=for-the-badge"/>
 
-</div>
+<br/><br/>
 
 | Achievement | Recognition |
-|---|---|
+|:---|:---:|
 | Smart India Hackathon 2025 | Grand Finale Finalist |
 | AIWH Hackathon | Top 25 |
 | Deep Data Hackathon | 3rd Position |
-| Mathematics Olympiad | School-level achievement |
+| Mathematics Olympiad | Class 10 |
+
+</div>
 
 ---
 
-## `04` — Technology Arsenal
+<h2 align="center">✦ TECH STACK ✦</h2>
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
 
-### AI / Machine Learning
+### AI / ML & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres&theme=dark"/>
 
-### Development Tools
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark"/>
 
 </div>
 
 ---
 
-## `05` — Selected Engineering Projects
+<h2 align="center">✦ FEATURED ENGINEERING PROJECTS ✦</h2>
 
-### ⛏️ Mine Sarthi
-**AI-powered Mining Intelligence & Digital Twin**
+<div align="center">
 
-*Smart India Hackathon 2025 — Grand Finale Project*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Digital twin-based mining operations monitoring.
-- LSTM-based predictive analytics.
-- IoT sensor integration for equipment monitoring.
-- Computer vision-based safety monitoring.
+<h3>⛏️ Mine Sarthi</h3>
 
-`Python` `LSTM` `OpenCV` `ESP32` `MQTT` `FastAPI`
+<img width="100%" src="https://placehold.co/600x260/101B35/60A5FA?text=MINE+SARTHI+%7C+AI+MINING" />
 
----
+**Smart Mining Intelligence & Digital Twin**
 
-### 🪨 MineralVision
-**Intelligent Mineral Classification & Monitoring Platform**
+- Digital twin-based mining monitoring
+- LSTM predictive analytics
+- IoT equipment monitoring
+- Computer vision safety detection
 
-- Deep learning-based mineral image classification.
-- Model integration with a prediction service.
-- Interactive monitoring and analytics dashboard.
-- Prediction history and model management.
+`Python` `LSTM` `OpenCV` `ESP32` `MQTT`
 
-`Python` `TensorFlow` `EfficientNetB3` `FastAPI` `Node.js`
+</td>
+<td width="50%" valign="top">
 
----
+<h3>🪨 MineralVision</h3>
 
-### 🚛 Container Yard Monitor
-**Computer Vision-Based Container Tracking System**
+<img width="100%" src="https://placehold.co/600x260/101B35/A78BFA?text=MINERALVISION+%7C+AI+CLASSIFICATION" />
 
-- Container detection and tracking.
-- Video-based monitoring and live simulation.
-- Container identification using OCR.
-- Interactive yard visualization and movement tracking.
+**AI-Powered Mineral Classification**
 
-`Python` `OpenCV` `OCR` `Node.js` `JavaScript`
+- Deep learning mineral classification
+- Image-based predictions
+- Prediction history and analytics
+- Model integration with FastAPI
 
----
+`TensorFlow` `EfficientNetB3` `FastAPI` `Node.js`
 
-### 🤖 AI Sakhi
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚛 Container Yard Monitor</h3>
+
+<img width="100%" src="https://placehold.co/600x260/101B35/38BDF8?text=CONTAINER+YARD+MONITOR" />
+
+**Computer Vision-Based Container Tracking**
+
+- Container detection and tracking
+- OCR-based identification
+- Video monitoring and simulation
+- Interactive yard dashboard
+
+`Python` `OpenCV` `OCR` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 AI Sakhi</h3>
+
+<img width="100%" src="https://placehold.co/600x260/101B35/C084FC?text=AI+SAKHI+%7C+VOICE+ASSISTANT" />
+
 **Bilingual Voice-Enabled AI Assistant**
 
-- Hindi and English voice interaction.
-- AI-assisted KYC form filling.
-- Speech recognition and NLP-based interaction.
+- Hindi and English voice support
+- AI-assisted KYC form filling
+- Speech recognition
+- NLP-powered interaction
 
-`Python` `NLP` `Speech Recognition` `AI`
+`Python` `NLP` `Speech Recognition`
 
----
-
-
-## `06` — GitHub Analytics
-
-<div align="center">
-
-<img src="./github-metrics.svg" width="100%" alt="GitHub developer analytics"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `07` — Contributions in 3D
+<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
 
 <div align="center">
 
-### Every commit is a step forward.
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&hide_border=true&bg_color=080E1D&title_color=8B9CFF&icon_color=38BDF8&text_color=DCE6F5&rank_icon=github" />
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Shivani's 3D GitHub contribution calendar"/>
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&hide_border=true&bg_color=080E1D&title_color=8B9CFF&text_color=DCE6F5&langs_count=8"/>
 
 </div>
 
 ---
 
-## `08` — Currently Exploring
+<h2 align="center">✦ CONTRIBUTION UNIVERSE ✦</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/ADVANCED_DSA-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-8B5CF6?style=flat-square"/>
+### My GitHub Contributions in 3D
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution calendar"/>
+
+<br/>
+
+### The journey never stops.
+
+<img src="https://raw.githubusercontent.com/shivxnii/shivxnii/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-## `09` — Let's Connect
+<h2 align="center">✦ CURRENTLY EXPLORING ✦</h2>
 
 <div align="center">
 
-I'm always interested in collaborating on meaningful projects, exploring innovative ideas and connecting with fellow developers.
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADVANCED_DSA-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2 align="center">✦ LET'S CONNECT ✦</h2>
+
+<div align="center">
+
+I'm always open to meaningful collaborations, innovative ideas and opportunities to build impactful technology.
 
 <a href="https://www.linkedin.com/in/shivani-sharma-1a7737289/">
-<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shivxnii">
-<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5636A8,50:142B52,100:090E1C&height=110&section=footer" width="100%"/>
-
 **BUILD • EXPLORE • INNOVATE • REPEAT**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7047B8,50:263C80,100:050816&height=130&section=footer"/>
 
 </div>

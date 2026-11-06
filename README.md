@@ -1,36 +1,21 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Shivani Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=SDE+Intern+%40+RYM+Grenergy;SIH'25+Finalist+%7C+AIWH'25+Finalist;Java+%7C+DSA+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
+### Software Development Engineer Intern | AI/ML Enthusiast | Full-Stack Developer
 
-<br>
+Building intelligent applications, practical AI solutions and scalable software.
 
-<a href="https://github.com/shivxnii">
-<img src="https://img.shields.io/badge/GitHub-shivxnii-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivani-sharma-1a7737289/">
-<img src="https://img.shields.io/badge/LinkedIn-Shivani%20Sharma-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shivanisharmarps.25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Shivani_2511/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shivxnii&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivani-sharma-1a7737289/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shivxnii)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivani_2511/)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```java
 class ShivaniSharma {
@@ -39,7 +24,7 @@ class ShivaniSharma {
         "Software Development Engineer Intern @ RYM Grenergy";
 
     String education =
-        "B.Tech CSE (AI & ML) | KR Mangalam University";
+        "B.Tech CSE (AI & ML) | K.R. Mangalam University";
 
     String graduation = "2027";
 
@@ -48,19 +33,19 @@ class ShivaniSharma {
         "Machine Learning",
         "Computer Vision",
         "Full Stack Development",
-        "Backend Development",
+        "Backend Engineering",
         "System Design"
     };
 
     String achievements[] = {
-        "SIH'25 Finalist",
-        "AIWH'25 Finalist",
+        "SIH 2025 Finalist",
+        "AIWH 2025 Finalist",
         "Deep Data Hackathon - 3rd Rank"
     };
 
     String currentlyLearning[] = {
         "Java",
-        "DSA",
+        "Data Structures & Algorithms",
         "Spring Boot",
         "System Design"
     };
@@ -71,422 +56,184 @@ class ShivaniSharma {
 
 ## 💼 Experience
 
-### 💜 Software Development Engineer Intern
-**RYM Grenergy**
+### 💜 Software Development Engineer Intern — RYM Grenergy
 
-- AI Based Mineral Classification Dashboard
-- Warehouse Automation System
-- Vehicle Entry/Exit Detection
-- ANPR + OCR
-- FastAPI + NodeJS + React
+- Working on AI-powered software and automation solutions.
+- Mineral classification and intelligent dashboard development.
+- Warehouse automation and vehicle monitoring systems.
+- Computer vision, ANPR and OCR integrations.
+- Working with FastAPI, Node.js and modern web technologies.
 
----
+### 💙 Former Software Development Intern — WebMobril Technologies
 
-### 💙 Ex Software Development Intern
-
-**WebMobril Technologies**
-
-Worked on
-
-- Enterprise Search Engine
-- AQI Forecasting
-- Scientific Calculator
-- Web Development
+- Developed an internal enterprise search engine.
+- Worked on AQI forecasting.
+- Built a scientific calculator using Python and Tkinter.
+- Explored backend development and application development.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🥇 Smart India Hackathon 2025 Finalist
+- 🥇 Smart India Hackathon 2025 — Grand Finale Finalist
+- 🥇 AIWH 2025 — Top 25
+- 🥉 Deep Data Hackathon — 3rd Position
+- 🏅 Mathematics Olympiad — Class 10
 
-🥇 AIWH 2025 Finalist
+---
 
-🥉 Deep Data Hackathon - 3rd Position
+## 🛠️ Tech Stack
 
-🏅 Mathematics Olympiad
+### 💻 Programming Languages
 
-# 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Java and Advanced DSA
+- Spring Boot
+- System Design
+- Backend Engineering
+- Advanced AI/ML applications
+
+---
+
+## 🚀 Featured Projects
+
+### 🪨 MineralVision
+**AI-Powered Mineral Classification Dashboard**
+
+- Deep learning-based mineral classification.
+- Image upload and mineral prediction.
+- Prediction history and analytics dashboard.
+- Model integration with FastAPI and Node.js.
+
+**Tech:** TensorFlow · PyTorch · FastAPI · React · Node.js · MongoDB
+
+### 🚚 Smart Warehouse Automation
+**Vehicle Entry / Exit Detection System**
+
+- Truck detection and tracking.
+- Automatic Number Plate Recognition.
+- OCR-based text extraction.
+- Automated vehicle entry logs.
+- Real-time monitoring dashboard.
+
+**Tech:** Python · YOLO · OpenCV · OCR · ANPR
+
+### ⛏️ Mine Sarthi
+**Smart India Hackathon 2025 Finalist**
+
+- Digital twin for mining operations.
+- Energy optimization and monitoring.
+- LSTM-based predictive analytics.
+- IoT-based equipment monitoring.
+- AI-powered safety monitoring.
+
+**Tech:** Python · IoT · LSTM · OpenCV · FastAPI
+
+### 🤖 AI Sakhi
+**Bilingual Voice-Enabled AI Assistant**
+
+- Hindi and English voice support.
+- AI-assisted KYC form filling.
+- Speech recognition and natural language processing.
+- Conversational assistant experience.
+
+**Tech:** Python · NLP · Speech Recognition · AI
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## 💻 Programming Languages
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c" />
-</p>
-
-## 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind" />
-</p>
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-## ☁️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C9D1D9" />
 
 </div>
 
 ---
 
-# 📚 Currently Learning
-
-```text
-✔ Java (Advanced)
-
-✔ Data Structures & Algorithms
-
-✔ Spring Boot
-
-✔ System Design
-
-✔ Backend Development
-
-✔ AI & Machine Learning
-```
-
----
-
-# ⚡ Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Shivani_2511/">
-<img src="https://img.shields.io/badge/LeetCode-Solved-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/shivxnii">
-<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivani-sharma-1a7737289/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-# 🎯 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 🌐 Full Stack Development
-- ⚙️ Backend Engineering
-- 📊 Data Structures & Algorithms
-- ☁️ Cloud Computing
-- 🚀 Software Engineering
-
----
-
-# 💡 Fun Fact
-
-```cpp
-while(!success){
-
-    Learn();
-
-    Build();
-
-    Improve();
-
-    Repeat();
-
-}
-```
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="70%">
-
-## 🪨 MineralVision
-
-### AI Powered Mineral Classification Dashboard
-
-**Tech Stack**
-
-TensorFlow • PyTorch • FastAPI • React • Node.js • MongoDB
-
-**Highlights**
-
-- 🔹 AI powered mineral classification system
-- 🔹 Dashboard for industrial clients
-- 🔹 Upload image & predict mineral type
-- 🔹 Prediction history
-- 🔹 Analytics Dashboard
-- 🔹 REST APIs using FastAPI
-
-**Skills**
-```
-Deep Learning
-Computer Vision
-Backend Development
-Model Deployment
-```
-
-</td>
-
-<td align="center">
-
-🧠 AI Dashboard
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="70%">
-
-## 🚚 Smart Warehouse Automation
-
-### Vehicle Entry / Exit Detection System
-
-**Tech Stack**
-
-YOLO • OpenCV • OCR • ANPR • Python
-
-**Features**
-
-- 🚛 Truck Detection
-- 🔢 Number Plate Recognition
-- 📸 OCR based text extraction
-- 📋 Automatic Entry Logs
-- 📊 Vehicle Monitoring Dashboard
-
-**Concepts Used**
-
-```
-YOLO
-OpenCV
-OCR
-Computer Vision
-Object Detection
-```
-
-</td>
-
-<td align="center">
-
-🚚 Smart Warehouse
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="70%">
-
-## ⛏ Mine Sarthi
-
-### Smart India Hackathon Project
-
-**Tech Stack**
-
-Python • IoT • LSTM • OpenCV • FastAPI
-
-**Highlights**
-
-- ⚡ Digital Twin for Mining
-- ⚡ Energy Optimization
-- ⚡ Safety Monitoring
-- ⚡ AI Based Prediction
-- ⚡ Real Time Dashboard
-
-**Achievement**
-
-🏆 Smart India Hackathon 2025 Finalist
-
-</td>
-
-<td align="center">
-
-🏆 SIH'25
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="70%">
-
-## 🤖 AI Sakhi
-
-### Voice Enabled AI Assistant
-
-**Tech Stack**
-
-Python • NLP • Speech Recognition • LLM
-
-**Features**
-
-- 🎙 Hindi + English Voice Support
-- 📄 KYC Form Filling
-- 🤖 AI Powered Assistant
-- 💬 Natural Conversation
-- 🌍 Multilingual Support
-
-</td>
-
-<td align="center">
-
-🤖 AI Assistant
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏅 Certifications & Achievements
-
-🥇 Smart India Hackathon 2025 Finalist
-
-🥇 AIWH 2025 Finalist
-
-🥉 Deep Data Hackathon – 3rd Rank
-
-🏅 Mathematics Olympiad
-
-💼 Software Development Engineer Intern @ RYM Grenergy
-
-💼 Ex Software Development Intern @ WebMobril Technologies
-
----
-
-# 🌱 Currently Working On
-
-✅ Spring Boot
-
-✅ Advanced DSA
-
-✅ AI based Warehouse Automation
-
-✅ Computer Vision
-
-✅ Backend Development
-
-✅ System Design
-
----
-
-# 📊 GitHub Analytics
+## 🧊 3D Contribution Calendar
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&theme=tokyonight&hide_border=true"/>
+### My GitHub Contributions — In 3D
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxnii&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitHub Contribution Calendar" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivxnii&theme=tokyo-night&hide_border=true"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shivani_2511-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivani_2511/)
 
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-shivxnii-181717?style=for-the-badge&logo=github)](https://github.com/shivxnii)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani_Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivani-sharma-1a7737289/)
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivxnii&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
-
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌱 Currently Working On
 
-<p align="center">
-
-<a href="mailto:shivanisharmarps.25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivani-sharma-1a7737289/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shivxnii">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Shivani_2511/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
+- AI-powered warehouse automation
+- Computer vision and object detection
+- Backend development
+- Intelligent monitoring systems
+- Java and System Design
 
 ---
 
 <div align="center">
 
-### 💜 "Code. Learn. Build. Repeat."
+### 💜 Code. Learn. Build. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=shivxnii&style=for-the-badge&color=blueviolet"/>
+*"Turning ideas into intelligent solutions, one commit at a time."*
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work, consider starring my repositories!
 
 </div>

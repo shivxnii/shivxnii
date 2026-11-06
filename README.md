@@ -211,17 +211,15 @@ Currently working as a Software Development Intern, I enjoy building intelligent
 
 ---
 
-<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+
+## `06` — GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&hide_border=true&bg_color=080E1D&title_color=8B9CFF&icon_color=38BDF8&text_color=DCE6F5&rank_icon=github" />
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&hide_border=true&bg_color=080E1D&title_color=8B9CFF&text_color=DCE6F5&langs_count=8"/>
+<img src="./github-metrics.svg" width="100%" alt="Shivani's GitHub Analytics"/>
 
 </div>
+
 
 ---
 

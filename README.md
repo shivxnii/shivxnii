@@ -177,12 +177,12 @@ Enterprise search, AQI forecasting and Python application development.
 
 ---
 
+
 ## `06` — GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivxnii&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=38BDF8&text_color=DCE6F5" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnii&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=DCE6F5" width="49%" />
+<img src="./github-metrics.svg" width="100%" alt="GitHub developer analytics"/>
 
 </div>
 

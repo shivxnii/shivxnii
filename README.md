@@ -4,23 +4,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Computer+Vision+%7C+Deep+Learning;Real-Time+Tracking+%7C+Automation;From+Research+to+Real-World+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Computer+Vision+%7C+Deep+Learning;Real-Time+Tracking+%7C+Automation;From+Research+to+Real-World+Products" alt="Project domains animation"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/PROJECTS-07-7657D5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ENGINEERING-163B70?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20SOLUTIONS-0E7490?style=for-the-badge"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1B,50:163B70,100:7657D5&height=3&section=header&width=100%"/>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🚢 01 · Container Yard Management</h3>
+### 🚢 01 · Container Yard Management
 
 <img src="https://img.shields.io/badge/COMPUTER_VISION-163B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/REAL_TIME_TRACKING-7657D5?style=flat-square"/>
@@ -46,7 +48,7 @@ A Yard Management System that tracks the position and orientation (`x, y, z`) of
 </td>
 <td width="50%" valign="top">
 
-<h3>👁️ 02 · Eye Tracking for Reading Evaluation</h3>
+### 👁️ 02 · Eye Tracking for Reading Evaluation
 
 <img src="https://img.shields.io/badge/EYE_TRACKING-163B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/BEHAVIOUR_ANALYSIS-7657D5?style=flat-square"/>
@@ -71,11 +73,10 @@ An eye-tracking module designed to evaluate reading styles by analyzing a person
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎙️ 03 · AI Voice-Based Positioning & Tracking</h3>
+### 🎙️ 03 · AI Voice-Based Positioning & Tracking
 
 <img src="https://img.shields.io/badge/ACTIVE_SPEAKER_AI-163B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/AUDIO_VISUAL_AI-7657D5?style=flat-square"/>
@@ -102,7 +103,7 @@ A smart meeting-room system that identifies the active speaker and automatically
 </td>
 <td width="50%" valign="top">
 
-<h3>🚘 04 · OCR-Based Vehicle Number Plate Tracking</h3>
+### 🚘 04 · OCR-Based Vehicle Number Plate Tracking
 
 <img src="https://img.shields.io/badge/AUTOMATED_ANPR-163B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/OCR_PIPELINE-7657D5?style=flat-square"/>
@@ -127,11 +128,10 @@ A computer vision system that detects vehicles, locates their number plates, and
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>⛏️ 05 · Mine Sarthi</h3>
+### ⛏️ 05 · Mine Sarthi
 
 <img src="https://img.shields.io/badge/SMART_MINING-163B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/DIGITAL_TWIN-7657D5?style=flat-square"/>
@@ -152,7 +152,7 @@ An intelligent mining analytics solution designed to support operational monitor
 </td>
 <td width="50%" valign="top">
 
-<h3>🪨 06 · MineralVision</h3>
+### 🪨 06 · MineralVision
 
 <img src="https://img.shields.io/badge/DEEP_LEARNING-163B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/IMAGE_CLASSIFICATION-7657D5?style=flat-square"/>
@@ -172,11 +172,10 @@ A deep learning-based mineral identification system integrated with an analytics
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 07 · AI Sakhi</h3>
+### 🤖 07 · AI Sakhi
 
 <img src="https://img.shields.io/badge/VOICE_AI-163B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-7657D5?style=flat-square"/>
@@ -197,11 +196,9 @@ An AI-powered assistant designed to simplify KYC form-filling through Hindi and 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚡ Engineering Approach</h3>
+### ⚡ Engineering Approach
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=350&lines=Analyze+%E2%86%92+Architect;Architect+%E2%86%92+Develop;Develop+%E2%86%92+Integrate;Integrate+%E2%86%92+Improve" />
-
-I enjoy working across the complete engineering lifecycle:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=350&lines=Analyze+%E2%86%92+Architect;Architect+%E2%86%92+Develop;Develop+%E2%86%92+Integrate;Integrate+%E2%86%92+Improve" alt="Engineering workflow animation"/>
 
 - Problem analysis and system design
 - AI/ML model development
@@ -219,8 +216,6 @@ I enjoy working across the complete engineering lifecycle:
 <div align="center">
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1B,50:163B70,100:7657D5&height=3&section=header&width=100%"/>
 
 **ENGINEERED WITH CURIOSITY. BUILT WITH PURPOSE.**
 
